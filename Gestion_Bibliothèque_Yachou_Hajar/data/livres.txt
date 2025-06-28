@@ -1,0 +1,5 @@
+9780525566151;Sapiens;Yuval Noah Harari;2011;Essai;0
+9782253071482;L'Étranger;Albert Camus;1942;Philosophie;0
+9780451524935;Fahrenheit 451;Ray Bradbury;1953;Science-fiction;0
+9782290022063;Le Petit Prince;Antoine de Saint-Exupéry;1943;Conte;0
+1111;ffff;fafaf;2002;action;1
