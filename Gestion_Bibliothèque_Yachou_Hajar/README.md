@@ -10,6 +10,13 @@ Cette application de bureau développée en Python permet de gérer les opérati
 
 ---
 
+## Presentation du project
+
+- **Lien** : https://drive.google.com/drive/u/2/folders/1vnlwp0A_ADVCsEb8QwUUpyoicMPS0Bai
+
+---
+
+
 ## 🛠️ Guide d'installation
 
 1. **Prérequis** : Python 3.10 ou plus  
